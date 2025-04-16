@@ -12,9 +12,13 @@ Data JPA, and integrating third-party services.
 # Technical Skills
 
 Languages: C/C++ | Java | JavaScript/TypeScript | Python
+
 Frontend: HTML | Tailwind CSS | React | NextJS
+
 Backend: Spring Boot | Spring Security | Spring Data JPA | JWT Auth | Hibernate
+
 Database: MySQL | PostgreSQL | MongoDB
+
 Tools: Git/Github | Docker | Linux 
 
 
