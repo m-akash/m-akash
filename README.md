@@ -25,8 +25,8 @@ Tools: Git/Github | Docker | Linux
 
 <div style="display: flex; gap: 50px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/mehedi-hasan-akash-bb30a921a/">Linkedin</a>
-  <a href="https://codeforces.com/profile/m-h-akash">Codeforces</a>
-  <a href="https://leetcode.com/u/m-h-akash/">Leetcode</a>
+  <a href="https://codeforces.com/profile/m-h-akash">     Codeforces</a>
+  <a href="https://leetcode.com/u/m-h-akash/">     Leetcode</a>
 </div>
 
 <!--
