@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# About Me
+
 I'm Mehedi Hasan Akash. Experienced C++ competitive programmer with four years of hands-on expertise, specializing in developing algorithms and
 applying object-oriented design principles to build optimized solutions, improving system performance by 30%. Additionally, I hold
 a Specialist Rank on Codeforces (Top 30% globally) with over 1500+ solved DSA problems, demonstrating strong problem-solving
