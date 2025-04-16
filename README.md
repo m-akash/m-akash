@@ -9,6 +9,14 @@ And beside that I have 1 year of hands-on experience in full-stack development u
 scalable web applications for personal projects. My expertise includes making beautiful UI with ReactJS and designing RESTful APIs, managing databases with Spring
 Data JPA, and integrating third-party services.
 
+# Technical Skills
+
+Languages: C/C++ | Java | JavaScript/TypeScript | Python
+Frontend: HTML | Tailwind CSS | React | NextJS
+Backend: Spring Boot | Spring Security | Spring Data JPA | JWT Auth | Hibernate
+Database: MySQL | PostgreSQL | MongoDB
+Tools: Git/Github | Docker | Linux 
+
 
 
 <!--
