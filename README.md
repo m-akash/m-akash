@@ -11,7 +11,7 @@ Data JPA, and integrating third-party services.
 
 ## Technical Skills
 
-Languages: C/C++ | Java | JavaScript/TypeScript | Python
+<strong> Languages: <strong/> C/C++ | Java | JavaScript/TypeScript | Python
 
 Frontend: HTML | Tailwind CSS | React | NextJS
 
