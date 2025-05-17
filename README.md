@@ -2,7 +2,7 @@
 
 Languages: C/C++ | Java | JavaScript/TypeScript | Python
 
-Frontend: HTML | Tailwind CSS | React | NextJS
+Frontend: HTML | Tailwind CSS | ReactJS
 
 Backend: Spring Boot | Spring Security | Spring Data JPA | JWT Auth | Hibernate
 
