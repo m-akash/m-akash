@@ -8,7 +8,7 @@ Backend: Spring Boot | NodeJS
 
 Database: MySQL | PostgreSQL | MongoDB
 
-Tools: Git/Github | Docker | Linux 
+Tools: Git/Github | Linux 
 
 ## My Handles
 
