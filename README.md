@@ -6,7 +6,7 @@ Frontend: HTML | Tailwind CSS | ReactJS
 
 Backend: Spring Boot | NodeJS
 
-Database: MySQL | PostgreSQL | MongoDB
+Database: PostgreSQL | MongoDB
 
 Tools: Git/Github | Linux 
 
