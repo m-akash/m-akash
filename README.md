@@ -1,7 +1,5 @@
 # Hi there, I'm Mehedi Hasan Akash 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=m-akash&style=flat-square)
-
 ## 👨‍💻 About Me
 I'm an enthusiastic developer passionate about problem-solving and building impactful software. I enjoy working across the stack, from system-level programming to modern web applications.
 
