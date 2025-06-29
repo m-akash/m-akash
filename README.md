@@ -7,6 +7,12 @@ I'm an enthusiastic developer passionate about problem-solving and building impa
 - 👯 Open to collaborating on: Open source, web projects, competitive programming
 - 📫 How to reach me: mehedihasan1769@gmail.com
 
+## 🌐 My Handles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-akash-bb30a921a/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/m-h-akash)
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/m-h-akash/)
+
 ## 🚀 Technical Skills
 
 | Languages            | Frameworks/Libraries | Databases        | Tools           |
@@ -16,13 +22,6 @@ I'm an enthusiastic developer passionate about problem-solving and building impa
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-akash&layout=compact)
-
-## 🌐 My Handles
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-akash-bb30a921a/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/m-h-akash)
-[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/m-h-akash/)
-
 
 <!--
 **m-akash/m-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
