@@ -15,7 +15,6 @@ I'm an enthusiastic developer passionate about problem-solving and building impa
 
 ## 📊 GitHub Stats
 
-![m-akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-akash&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-akash&layout=compact)
 
 ## 🌐 My Handles
