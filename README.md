@@ -3,7 +3,6 @@
 ## About Me
 I'm an enthusiastic developer passionate about problem-solving and building impactful software. I enjoy working across the stack, from system-level programming to modern web applications.
 
-- Currently learning: [NextJS, TypeScript, Docker]
 - Open to collaborating on: Open source, web projects, competitive programming
 - How to reach me: mehedihasan1769@gmail.com
 
