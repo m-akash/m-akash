@@ -1,5 +1,3 @@
-# Hi there, I'm Mehedi Hasan Akash 👋
-
 ## About Me
 I'm an enthusiastic developer passionate about problem-solving and building impactful software. I enjoy working across the stack, from system-level programming to modern web applications.
 
