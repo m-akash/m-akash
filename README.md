@@ -1,9 +1,3 @@
-## About Me
-I'm an enthusiastic developer passionate about problem-solving and building impactful software. I enjoy working across the stack, from system-level programming to modern web applications.
-
-- Open to collaborating on: Open source, web projects, competitive programming
-- How to reach me: mehedihasan1769@gmail.com
-
 ## 🌐 My Handles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-akash-bb30a921a/)
